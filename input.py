@@ -10,5 +10,5 @@ y=int(input("Enter Second Number:"))
 #l=  x if x>y and x>z else y if y>z else z
 #print("Max values is:",l)
 
-l = "Both Numbers are equaly" if x==y else "First number is greater"  if x>y else "First number is smaller:"
+l = "Both Numbers are equaly" if x==y else "First number is greater"  if x>y else "First number is Smallest:"
 print(l)
